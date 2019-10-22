@@ -1,0 +1,10 @@
+C:\Users\herendsg01\Desktop\MurrachianConversions\Form9-3\bin\Debug\Form9-3.exe.config
+C:\Users\herendsg01\Desktop\MurrachianConversions\Form9-3\bin\Debug\Form9-3.exe
+C:\Users\herendsg01\Desktop\MurrachianConversions\Form9-3\bin\Debug\Form9-3.pdb
+C:\Users\herendsg01\Desktop\MurrachianConversions\Form9-3\obj\Debug\Form9-3.csprojAssemblyReference.cache
+C:\Users\herendsg01\Desktop\MurrachianConversions\Form9-3\obj\Debug\Form9_3.FormFutureValue9_3.resources
+C:\Users\herendsg01\Desktop\MurrachianConversions\Form9-3\obj\Debug\Form9_3.Properties.Resources.resources
+C:\Users\herendsg01\Desktop\MurrachianConversions\Form9-3\obj\Debug\Form9-3.csproj.GenerateResource.cache
+C:\Users\herendsg01\Desktop\MurrachianConversions\Form9-3\obj\Debug\Form9-3.csproj.CoreCompileInputs.cache
+C:\Users\herendsg01\Desktop\MurrachianConversions\Form9-3\obj\Debug\Form9-3.exe
+C:\Users\herendsg01\Desktop\MurrachianConversions\Form9-3\obj\Debug\Form9-3.pdb
